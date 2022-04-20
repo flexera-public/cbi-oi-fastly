@@ -7,7 +7,7 @@ severity "low"
 default_frequency "daily"
 category "Cost"
 info(
-  version: "1.0",
+  version: "2.0",
   provider: "Fastly",
   service: "All",
   policy_set: "N/A"
